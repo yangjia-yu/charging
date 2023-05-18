@@ -1,4 +1,4 @@
-package com.bupt.godxian.charging.util;
+package com.bupt.godxian.charging.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
